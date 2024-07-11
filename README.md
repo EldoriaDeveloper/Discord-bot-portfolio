@@ -21,13 +21,16 @@ I am a skilled Discord bot developer with over 4 years of experience in Python p
 
 - **Language**: Python
 - **Features**:
-  - Custom-made characters, banners, and cosmetics
+  - Custom-made characters by client.
+  - Custom-made character skins by client.
+  - Level up features including leaderboard.
+  - Many creation commands for the bot owner to add characters, skins, items, etc. to the global store.
   - Integrated currency and item system
 
-### 3. Other Economy Bots and Games
+### 3. Other Economy Bots and Games/Card Games
 
 - **Language**: Python
-- **Description**: Developed several other economy bots and games that incorporate complex economic systems and interactive gameplay.
+- **Description**: Developed several other economy bots, games, card games, etc. that incorporate complex economic systems and interactive gameplay.
 
 ## Experience
 
@@ -46,8 +49,8 @@ I am a skilled Discord bot developer with over 4 years of experience in Python p
 ## Contact Me
 
 Feel free to reach out to me for collaborations or inquiries about my work:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email**: yourname@example.com
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/devkaustov)
+- **Email**: kauss111@gmail.com
 
 ---
 
