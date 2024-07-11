@@ -49,8 +49,8 @@ I am a skilled Discord bot developer with over 4 years of experience in Python p
 ## Contact Me
 
 Feel free to reach out to me for collaborations or inquiries about my work:
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/devkaustov)
-- **Email**: kauss111@gmail.com
+- **LinkedIn**: [Profile](www.linkedin.com/in/devkaustov)
+- **Email**: [Email](kauss111@gmail.com)
 
 ---
 
